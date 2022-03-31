@@ -1,4 +1,4 @@
-l=[]  
+//l=[]  
 st=" naman study in aba school"
 for word in st.split():
     if word==word[::-1]:
